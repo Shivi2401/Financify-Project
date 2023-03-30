@@ -31,9 +31,8 @@ ____
 - [Libraries](#id-sec4)
 - [Components Used](#id-sec5)
 - [Installation Guide](#id-sec6)
-- [Contributors](#id-sec7)
-- [License](#id-sec8)
-- [Contribution Guide](#id-sec9)
+- [License](#id-sec7)
+- [Contribution Guide](#id-sec8)
 
  
 <div id='id-sec1'/>
@@ -225,28 +224,9 @@ Below given is an ER (Entity Relationship) diagram which will help the users to 
 
 Please refer [Installation Guide](https://github.com/Kanav-Arora/Financify/blob/main/Installation.md).
 
+<br>
+
 <div id='id-sec7'/>
-
-
-<br>
- 
->## Contributors
-
-<p> 
-
-**We are a Quintet.** 
-<p>
-
-**The A-Team includes Shivam Bhatt, Kanav Arora, Kinshuk G. Pandey, Samriddh Srivastava and Arnav Batra.** 
-
-<p>
-
-*Now when it comes down to individual contributions, we would like to mention a brief summary that will explain the way in which this project was developed. Backend coding and logic development is one thing which almost all of us did. Designing and presentation was handled by Kinshuk, Arnav and Samriddh. Shivam and Kanav handled the GUI integration and major frame development. Debugging and testing was done by Shivam, Samriddh and Kinshuk. Also a special mention to Arnav, the credit goes to him for our logo design. Kanav and Shivam were responsible for significant project development and the merging of frames. Kinshuk, Samriddh and Arnav took charge of the documentation and project planning.*
-<p>
-
-<br>
-
-<div id='id-sec8'/>
  
 >## License
 
@@ -254,7 +234,7 @@ This project comes under [MIT License](LICENSE).
 
 <br>
 
-<div id='id-sec9'/>
+<div id='id-sec8'/>
  
 >## Contribution Guide
 
